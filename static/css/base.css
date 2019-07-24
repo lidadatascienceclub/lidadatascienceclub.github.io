@@ -1,4 +1,15 @@
+.main {
+  margin: auto;
+  display: inline-block;
+  width: 80%;
+  width: 80vw;
+}
+
 .pad-1, pad-1:hover, pad-1:visited, pad-1:active, pad-1:link {
-  background-color: #ec42f5;
+  background-color: #EC42F5;
   color: black;
+}
+
+.banner {
+  padding-bottom: 10px;
 }
