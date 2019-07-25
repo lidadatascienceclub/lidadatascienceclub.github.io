@@ -11,6 +11,17 @@ a:hover {
   color: white;
 }
 
+.container-fluid {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.page-footer {
+  bottom: 0;
+  position: absolute;
+  width: 100%;
+}
+
 .h1-main {
   background-color: black;
   color: white;
@@ -36,7 +47,10 @@ a:hover {
   text-align: left;
   padding: 5px;
   text-decoration: none;
-  border-radius: 15px
+  border-radius: 15px;
+  width: 250px;
+  height: 100px;
+
 }
 
 .pad-2 {
@@ -46,7 +60,9 @@ a:hover {
   text-align: left;
   padding: 5px;
   text-decoration: none;
-  border-radius: 15px
+  border-radius: 15px;
+  width: 250px;
+  height: 100px;
 }
 
 .pad-3 {
@@ -56,7 +72,21 @@ a:hover {
   text-align: left;
   padding: 5px;
   text-decoration: none;
-  border-radius: 15px
+  border-radius: 15px;
+  width: 250px;
+  height: 100px;
+}
+
+.pad-git {
+  background-color: #f2a807;
+  color: black;
+  display: inline-block;
+  text-align: left;
+  padding: 5px;
+  text-decoration: none;
+  border-radius: 15px;
+  width: 250px;
+  height: 100px;
 }
 
 .banner {
