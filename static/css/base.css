@@ -49,7 +49,7 @@ a:hover {
   text-decoration: none;
   border-radius: 15px;
   width: 250px;
-  height: 100px;
+  height: 125px;
 
 }
 
@@ -61,8 +61,8 @@ a:hover {
   padding: 5px;
   text-decoration: none;
   border-radius: 15px;
-  width: 250px;
-  height: 100px;
+  width: 260px;
+  height: 125px;
 }
 
 .pad-3 {
@@ -74,11 +74,23 @@ a:hover {
   text-decoration: none;
   border-radius: 15px;
   width: 250px;
-  height: 100px;
+  height: 125px;
 }
 
 .pad-git {
   background-color: #f2a807;
+  color: black;
+  display: inline-block;
+  text-align: left;
+  padding: 5px;
+  text-decoration: none;
+  border-radius: 15px;
+  width: 250px;
+  height: 100px;
+}
+
+.pad-poll {
+  background-color: #46acdb;
   color: black;
   display: inline-block;
   text-align: left;
